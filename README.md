@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/bfiessinger/bfiessinger/master/assets/computer-working.gif" width="100%" />
+<img src="https://media.giphy.com/media/l0MYNbSwbMyGTfASA/source.gif" width="100%" />
