@@ -1,1 +1,3 @@
-<img src="https://media.giphy.com/media/l0MYNbSwbMyGTfASA/source.gif" width="100%" />
+Hey, I'm Bastian 👋
+
+I'm a full stack developer driven by ☕ and currently working at [SteinRein](https://www.steinrein.com).
